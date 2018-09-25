@@ -1,0 +1,24 @@
+language: python
+python:
+  - "3.6"
+env:
+  - AWS_DEFAULT_REGION=us-east-1
+    CLOUDFRONT_ID=E3KN6HSU9DL79F
+    S3_BUCKET=chrome-software-architecture
+install:
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.49/hugo_0.49_Linux-64bit.deb
+  - sudo dpkg -i hugo*.deb
+  - pip install Pygments
+  - rm -rf public 2> /dev/null
+script:
+  - hugo
+branches:
+  only:
+    - master
+deploy:
+  provider: script
+  script: bash deploy.sh
+  skip_cleanup: true
+  on:
+    all_branches: true
+    condition: $TRAVIS_BRANCH =~ ^master$

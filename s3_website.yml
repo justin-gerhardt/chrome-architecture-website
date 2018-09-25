@@ -1,0 +1,6 @@
+s3_bucket: <%= ENV['S3_BUCKET'] %>
+cloudfront_distribution_id: <%= ENV['CLOUDFRONT_ID'] %>
+gzip: true
+max_age: 120
+cloudfront_wildcard_invalidation: true
+site: public
