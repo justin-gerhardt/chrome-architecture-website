@@ -1,4 +1,4 @@
-Chrome Architecture Website
+Chrome Architecture Website [![Build Status](https://travis-ci.com/justin-gerhardt/chrome-architecture-website.svg?branch=master)](https://travis-ci.com/justin-gerhardt/chrome-architecture-website)
 ============================
 
 
