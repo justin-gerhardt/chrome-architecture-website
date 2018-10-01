@@ -25,28 +25,43 @@ General Architecture
 
 [Inside Look at Chrome Part 4](https://developers.google.com/web/updates/2018/09/inside-browser-part4)
 
-
 [Code Reuse in Chrome](http://www.catonmat.net/blog/code-reuse-in-google-chrome-browser/)
 
 [Chrome Extensions](https://developer.chrome.com/extensions/overview)
 
-[Sandbox]
-(https://chromium.googlesource.com/chromium/src/+/master/docs/design/sandbox.md)
+[Sandbox](https://chromium.googlesource.com/chromium/src/+/master/docs/design/sandbox.md)
 
-[More Security]
-(https://www.chromium.org/developers/design-documents/chaps-technical-design)
+[More on Sandbox](http://blog.azimuthsecurity.com/2010/05/chrome-sandbox-part-1-of-3-overview.html)
 
-[Native Controls]
-(https://www.chromium.org/developers/design-documents/native-controls)
+[Native Controls](https://www.chromium.org/developers/design-documents/native-controls)
 
-[Threads and tasks]
-(https://chromium.googlesource.com/chromium/src/+/master/docs/threading_and_tasks.md)
+[Threads and tasks](https://chromium.googlesource.com/chromium/src/+/master/docs/threading_and_tasks.md)
 
-[Resource distribution]
-(https://www.chromium.org/developers/design-documents/multi-process-resource-loading)
+[Resource distribution](https://www.chromium.org/developers/design-documents/multi-process-resource-loading)
 
-[Multi-Process Architecture]
-(https://www.chromium.org/developers/design-documents/multi-process-architecture)
+[Multi-Process Architecture](https://www.chromium.org/developers/design-documents/multi-process-architecture)
+
+[Inter-process Communication](http://dev.chromium.org/developers/design-documents/inter-process-communication)
+
+[High Performance Networking in Chrome](https://www.aosabook.org/en/posa/high-performance-networking-in-chrome.html)
+
+[Site Isolation Design](https://dev.chromium.org/developers/design-documents/site-isolation)
+
+[Plugin Architecture](https://dev.chromium.org/developers/design-documents/plugin-architecture)
+
+Security Architecture
+---------------------
+[Chaps Technical Design](https://www.chromium.org/developers/design-documents/chaps-technical-design)
+
+[Security Architecture of Chromium](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
+
+[Extention Security Architecture](https://www.usenix.org/sites/default/files/conference/protected-files/felt_usenixsecurity12_slides.pdf)
+
+[Security Features and Risks](https://resources.infosecinstitute.com/security-features-and-risks-in-google-chrome/)
+
+[Browser Security: Lessons from Google Chrome](https://courses.cs.washington.edu/courses/cse484/14au/reading/browser-security-chrome.pdf)
+
+[Evolution of Chrome Security Architecture](https://www.syscan360.org/slides/2012_EN_TheEvolutionOfChromeSecurityArchitecture_RenHuan.pdf)
 
 History & General Information
 -----------------------------
