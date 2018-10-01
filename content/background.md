@@ -36,9 +36,6 @@ General Architecture
 [More Security]
 (https://www.chromium.org/developers/design-documents/chaps-technical-design)
 
-[Cached Data Security]
-(https://www.chromium.org/chromium-os/chromiumos-design-docs/protecting-cached-user-data)
-
 [Native Controls]
 (https://www.chromium.org/developers/design-documents/native-controls)
 
@@ -47,6 +44,9 @@ General Architecture
 
 [Resource distribution]
 (https://www.chromium.org/developers/design-documents/multi-process-resource-loading)
+
+[Multi-Process Architecture]
+(https://www.chromium.org/developers/design-documents/multi-process-architecture)
 
 History & General Information
 -----------------------------
