@@ -25,10 +25,28 @@ General Architecture
 
 [Inside Look at Chrome Part 4](https://developers.google.com/web/updates/2018/09/inside-browser-part4)
 
+
 [Code Reuse in Chrome](http://www.catonmat.net/blog/code-reuse-in-google-chrome-browser/)
 
 [Chrome Extensions](https://developer.chrome.com/extensions/overview)
 
+[Sandbox]
+(https://chromium.googlesource.com/chromium/src/+/master/docs/design/sandbox.md)
+
+[More Security]
+(https://www.chromium.org/developers/design-documents/chaps-technical-design)
+
+[Cached Data Security]
+(https://www.chromium.org/chromium-os/chromiumos-design-docs/protecting-cached-user-data)
+
+[Native Controls]
+(https://www.chromium.org/developers/design-documents/native-controls)
+
+[Threads and tasks]
+(https://chromium.googlesource.com/chromium/src/+/master/docs/threading_and_tasks.md)
+
+[Resource distribution]
+(https://www.chromium.org/developers/design-documents/multi-process-resource-loading)
 
 History & General Information
 -----------------------------
