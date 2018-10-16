@@ -1,3 +1,6 @@
-[about]
+[links]
     Name = "Background Links"
     URL = "/background"
+[concept]
+    Name = "Conceptual Architecture"
+    URL = "https://docs.google.com/presentation/d/1-pL4hePd2ZdmwcJ4iQGRPrbalf3ARIrFRWYJur1xv0M/edit?usp=sharing"
