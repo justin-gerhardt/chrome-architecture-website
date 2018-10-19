@@ -1,6 +1,9 @@
 [links]
     Name = "Background Links"
     URL = "/background"
-[concept]
-    Name = "Conceptual Architecture"
+[conceptPres]
+    Name = "Conceptual Architecture Presentation"
     URL = "https://docs.google.com/presentation/d/1-pL4hePd2ZdmwcJ4iQGRPrbalf3ARIrFRWYJur1xv0M/edit?usp=sharing"
+[conceptReport]
+Name = "Conceptual Architecture Report"
+URL = "https://docs.google.com/document/d/1I1ZbG9XZLENwquCsvKkgigGRMIeXQuiLkloHr-FvX0A/edit?usp=sharing"
