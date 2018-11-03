@@ -3,4 +3,4 @@ languageCode = "en-us"
 theme = "hyde-y"
 [params]
     sidebar = "left"
-    topline = "fall 2018 - google Crones"
+    topline = "fall 2018 - google crones"
